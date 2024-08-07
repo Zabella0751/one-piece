@@ -26,4 +26,9 @@ Um projeto básico para aprender na prática sobre as três linguagens de progra
 
 3. Abra no seu editor de código:
    - Depois dos procedimentos acima é só abrir no seu editor de código.
+  
+## Spoiler do Site
+- Uma imagem tirada do site para servir como uma prévia de como o projeto é.
+  
+![](previa-do-projeto.png) 
      
