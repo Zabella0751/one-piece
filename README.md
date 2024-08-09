@@ -9,6 +9,10 @@ Um site simples com descrições e imagens dos cinco primeiros membros do bando 
 ## Sobre o projeto
 Um projeto básico para aprender na prática sobre as três linguagens de programação citadas acima, feito na Semana do Zero ao Programador do Dev em Dobro. Poucas mudanças foram feitas do projeto original.
 
+## Funcionalidades
+- Apresentação dos personagens da obra One Piece.
+- Exibição de informações obre esses personagens.
+
 ## Como Executar o Projeto
 1. Clone o repositório:
    - Primeiro é necessário clonar o repositório clicando na área verde escrito < Code >, logo acima dos arquivos.
