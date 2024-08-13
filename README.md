@@ -11,7 +11,7 @@ Um projeto básico para aprender na prática sobre as três linguagens de progra
 
 ## Funcionalidades
 - Apresentação dos personagens da obra One Piece.
-- Exibição de informações obre esses personagens.
+- Exibição de informações sobre esses personagens.
 
 ## Como Executar o Projeto
 1. Clone o repositório:
