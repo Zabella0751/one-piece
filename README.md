@@ -29,4 +29,4 @@ Um projeto básico para aprender na prática sobre as três linguagens de progra
      ```
 
 3. Abra no seu editor de código:
-   - Depois dos procedimentos acima é só abrir no seu editor de código.
+   - Depois dos procedimentos acima é só abrir no seu editor de código e colocar para rodar.
